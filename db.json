@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "Change hard drive on workstation 004",
+      "message": "Change hard drive on workstation 002",
       "attention": false,
-      "date": "04-23-12",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2020-12-24T23:04:30.259Z"
     },
     {
       "id": 2,
