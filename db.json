@@ -2,24 +2,24 @@
   "logs": [
     {
       "id": 1,
-      "message": "Change hard drive on workstation 002",
+      "message": "c",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-12-24T23:04:30.259Z"
+      "date": "2020-12-24T23:15:32.303Z"
     },
     {
       "id": 2,
-      "message": "Change hard drive on workstation 002",
+      "message": "a",
       "attention": true,
-      "date": "04-24-12",
-      "tech": "bob"
+      "tech": "bob",
+      "date": "2020-12-24T23:14:16.773Z"
     },
     {
       "id": 3,
-      "message": "Change hard drive on workstation 001",
+      "message": "b",
       "attention": false,
-      "date": "04-25-12",
-      "tech": "kevin"
+      "tech": "kevin",
+      "date": "2020-12-24T23:15:24.819Z"
     }
   ],
   "techs": [
